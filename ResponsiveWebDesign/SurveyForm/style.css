@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    padding-top: 15px;
+}
+
+body{
+    background-image: url("https://s2.dmcdn.net/v/AgFJN1LghZ0D3Be9v/x1080");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+    color: white;
+}
+
+#survey-form{
+    display:flex;
+    flex-direction: column;
+    align-items: justify;
+    padding: 10px 20px 10px 20px;
+}
+
+#submit{
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    padding: 15px 150px 15px 150px;
+    opacity: 0.8;
+}
+
+main{
+    background-color: rgba(0,0,128, 0.3);
+    padding-top: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: -20px;
+}
